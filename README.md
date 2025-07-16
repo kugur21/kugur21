@@ -13,21 +13,23 @@ I enjoy combining analytical thinking and programming skills to develop data-dri
 - Optimization & Operations Research
 - Computer Vision & Diffusion Models
 
-## Technical Skills
+### 🛠️ Languages and Tools
+These are some of the technologies and tools I have experience with:
 
 **Languages:**  
-- Python ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-- C ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-- Java ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-- R (currently learning)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-**Tools & Technologies:**  
-- Git & GitHub ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-- Jupyter Notebook ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-- Firebase ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-- Linux ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-- Tableau (currently learning)
+**Technologies & Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ## Contact
 
