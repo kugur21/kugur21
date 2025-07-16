@@ -13,7 +13,7 @@ I enjoy combining analytical thinking and programming skills to develop data-dri
 - Optimization & Operations Research
 - Computer Vision & Diffusion Models
 
-### 🛠️ Languages and Tools
+## Languages and Tools
 These are some of the technologies and tools I have experience with:
 
 **Languages:**  
